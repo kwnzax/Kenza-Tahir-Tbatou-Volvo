@@ -6,11 +6,13 @@ section {
 .projet{
     display: flex;
     flex-direction: row;
+    flex-wrap: wrap;
     justify-content: center;
     text-align: center;
     gap: 50px; 
-    padding: 100px;
-    padding-bottom: 170px;
+    padding: 60px;
+    padding-top: 100px;
+    padding-bottom: 150px;
 }
 
 h2 {
